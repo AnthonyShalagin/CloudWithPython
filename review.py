@@ -12,3 +12,10 @@ greeting = 'hi'
 name = 'anthony'
 
 print(greeting + ' ' + name)
+
+
+#comparators
+
+5 in [1,2,3,4,5] #true
+
+"pine" in "pineapple" #true
